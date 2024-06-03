@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
+Nama : Rajendra Damar Setiyawan  
 NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Sesi : 3 Juni 2024 
+Secret String : 9572eb7f42fadf187273be9cabcbfa9caa0274347e521186abd63ea54e05f26120240603005943
 
 ## Checklist Responsi
 
